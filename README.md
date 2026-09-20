@@ -144,4 +144,3 @@ Website: https://flyn.co/9JbTeV/
 ## Disclaimer
 
 This is an independent utility project. Third-party AI models, codecs, OCR engines, translation engines and media frameworks remain subject to their own licenses and distribution terms.
-                                                                                                    
